@@ -1,5 +1,5 @@
 
-'''          CODE BY  𐏓꯭  𝗠𝗥ᬊ͜͡  𝗦𝗞 𝗛𝗔𝗖𝗞𝗘𝗥〆͎          '''
+'''          CODE BY  𐏓SK HACKER         '''
 
 import urllib.parse
 import os

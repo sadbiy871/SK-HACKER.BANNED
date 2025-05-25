@@ -1,5 +1,5 @@
 
-'''          CODE BY  𐏓꯭  𝗦𝗞ᬊ͜͡  𝗛𝗔𝗖𝗞𝗘𝗥〆͎          '''
+'''          CODE BY  𐏓𝐒𝐊 𝐇𝐀𝐂𝐊𝐄𝐑        '''
 
 import os
 import time
@@ -11,7 +11,7 @@ from enc import developer_info
 def ban_number():
     os.system("clear")
     print_banner()
-    print_code_by_awais()
+    print_code_by_𝐒𝐊()
     target_number = input(Colors.WHITE + Colors.BOLD + "\n   INPUT TARGET NUMBER : " + Colors.END)
 
     os.system("clear")
@@ -54,7 +54,7 @@ def main_menu():
         if choice == "1":
             ban_number()
         elif choice == "2":
-            os.system(f"termux-open-url https://whatsapp.com/channel/0029VbAFZQQ8KMqicghvYl1O")
+            os.system(f"termux-open-urlhttps://whatsapp.com/channel/0029Vb5pqpiAO7RC8BlVO40H/352")
         elif choice == "3":
             os.system("termux-open-url https://whatsapp.com/channel/0029VbAFZQQ8KMqicghvYl1O")
         elif choice == "4":

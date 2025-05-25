@@ -1,5 +1,5 @@
 
-'''          CODE BY  𐏓꯭  𝗦𝗞ᬊ͜͡  𝗛𝗔𝗖𝗞𝗘𝗥〆͎          '''
+'''          CODE BY  𐏓  SK HACKER          '''
 
 import os
 import subprocess

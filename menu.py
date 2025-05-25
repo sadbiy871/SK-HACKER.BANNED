@@ -16,7 +16,7 @@ def ban_number():
 
     os.system("clear")
     print_banner()
-    print_code_by_awais()
+    print_code_by_SK()
 
     options = {
         "1": "v1",

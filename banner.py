@@ -18,5 +18,5 @@ def print_banner():
                ⠙⠻⢿⣿⣿⣿⣿⠟⠁
     ''', Colors.CYAN + Colors.BOLD)
 
-def print_code_by_𝗦𝗞():
+def print_code_by_awais():
     Colors.typing_effect("\n  POWERED BY 𝗦𝗞 𝗛𝗔𝗖𝗞𝗘𝗥 9T9\n\n", Colors.WHITE + Colors.BOLD)

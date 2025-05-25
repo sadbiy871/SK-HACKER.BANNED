@@ -11,12 +11,12 @@ from enc import developer_info
 def ban_number():
     os.system("clear")
     print_banner()
-    print_code_by_𝐒𝐊()
+    print_code_by_𝐚𝐰𝐚𝐢𝐬()
     target_number = input(Colors.WHITE + Colors.BOLD + "\n   INPUT TARGET NUMBER : " + Colors.END)
 
     os.system("clear")
     print_banner()
-    print_code_by_SK()
+    print_code_by_𝐚𝐰𝐚𝐢𝐬()
 
     options = {
         "1": "v1",
